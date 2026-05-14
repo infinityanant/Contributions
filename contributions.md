@@ -7,7 +7,9 @@
 
 #stdlib    
 [bench: refactor to use string interpolation in assert](https://github.com/stdlib-js/stdlib/pull/9786) ✅  
-[fix: replace new Array() with array literals in test files](https://github.com/stdlib-js/stdlib/pull/10257) 🟡
+
+#headlamp  
+[backend: Return error when repository lock is not acquired](https://github.com/kubernetes-sigs/headlamp/pull/5653) 🟡  
 
 
    🟡 Open ✅ Merged
